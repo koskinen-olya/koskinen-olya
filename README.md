@@ -6,7 +6,7 @@
 </div>
 
 ### About Me :
-- :desktop_computer: I’m working as a Quality Assurance engineer for 4 years.
+- :desktop_computer: I work as an Quality Assurance engineer for 4 years.
 
 - :desktop_computer: I want to progress in test automation, and here you can see some of my projects.
 
